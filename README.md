@@ -110,7 +110,7 @@ Let's fix that:
 
 def introduction(name)
   puts "Hi, my name is #{name}."
-end
+end 
 ```
 
 Run the test again and we should be passing the first of our two tests. Use the
